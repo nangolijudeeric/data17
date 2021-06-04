@@ -1,7 +1,7 @@
 [
    {
       "id":"1",
-      "name":"DJI Air 2S Drone",
+      "name":"DJI Air 2S",
       "focalLength":"22",
       "Aperture":[
          {
@@ -67,7 +67,7 @@
    },
    {
       "id":"3",
-      "name":"DJI Air 2S Drone",
+      "name":"DJI Air 2S",
       "focalLength":"22",
       "Aperture":[
          {
@@ -149,7 +149,7 @@
    },
    {
       "id":"5",
-      "name":"DJI Mini 2 Drone",
+      "name":"DJI Mini 2",
       "focalLength":"22",
       "Aperture":[
          {
