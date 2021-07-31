@@ -3,14 +3,14 @@
 [
    {
       "id": 1,
-      "name": "lopass",
+      "name": "Red Monstra",
       "focalLength": [28],
       "Aperture": [2.4],
       "framerate": [24, 25, 30, 48, 50, 60, 120, 240],
       "iso": [ 100,200, 400,800,1600,3200],
       "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
       "shutterAngle":[],
-      "videoResolution": 4096,
+      "videoResolution": 8192,
       "resolution": "4K Cinema",
       "keyword": "4K Cinema, Anafi Parrot  Jude",
       "ndFilter": ["ND", "PL", "GR"],
