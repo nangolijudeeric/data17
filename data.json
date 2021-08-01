@@ -4,7 +4,7 @@
    {
       "id": 1,
       "name": "Red Monstra",
-      "focalLength": [28],
+      "focalLength": "28",
       "Aperture": [2.4],
       "framerate": [24, 25, 30, 48, 50, 60, 120, 240],
       "iso": [ 100,200, 400,800,1600,3200],
