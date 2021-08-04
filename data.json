@@ -3,7 +3,7 @@
 [
    {
       "id": 1,
-      "name": "Red Monstra",
+      "name": "Red Monstra Drone",
       "focalLength": "24",
       "Aperture": [2.4],
       "framerate": [24, 25, 30, 48, 50, 60, 120, 240],
