@@ -13,6 +13,7 @@
         "ndFilter": ["ND", "PL", "GR", "UV"],
         "link": "jsjsjsj"
      },
+   
     {
         "id": 2,
         "name": "DJI FPV",
@@ -38,6 +39,63 @@
         "videoResolution": 3840,
         "resolution": "4K Ultra HD",
         "keyword": "4K Ultra HD Mavic Air",
+        "ndFilter": ["ND", "PL", "GR", "UV"],
+        "link": "jsjsjsj"
+     },
+
+     {
+        "id": 4,
+        "name": "Mavic Air",
+        "focalLength": "24",
+        "Aperture": [2.8],
+        "framerate": [24, 25, 30, 48, 50],
+        "iso": [ 100,200, 400,800,1600,3200],
+        "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+        "videoResolution": 2720,
+        "resolution": "2.7K",
+        "keyword": "2.7K Mavic Air",
+        "ndFilter": ["ND", "PL", "GR", "UV"],
+        "link": "jsjsjsj"
+     },
+     {
+        "id": 5,
+        "name": "Mavic Air",
+        "focalLength": "24",
+        "Aperture": [2.8],
+        "framerate": [24, 25, 30, 48, 50],
+        "iso": [ 100,200, 400,800,1600,3200],
+        "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+        "videoResolution": 1920,
+        "resolution": "FHD",
+        "keyword": "FHD Mavic Air",
+        "ndFilter": ["ND", "PL", "GR", "UV"],
+        "link": "jsjsjsj"
+     },
+     {
+        "id": 5,
+        "name": "Mavic Air",
+        "focalLength": "24",
+        "Aperture": [2.8],
+        "framerate": [24, 25, 30, 48, 50],
+        "iso": [ 100,200, 400,800,1600,3200],
+        "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+        "videoResolution": 1280,
+        "resolution": "HD",
+        "keyword": "HD Mavic Air",
+        "ndFilter": ["ND", "PL", "GR", "UV"],
+        "link": "jsjsjsj"
+     },
+     {
+        "id": 6,
+        "name": "Mavic Air 2",
+        "focalLength": "24",
+        "Aperture": [2.8],
+        "framerate": [24, 25, 30, 48, 50],
+        "iso": [ 100,200, 400,800,1600,3200],
+        "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+        "videoResolution": 3840,
+        "resolution": "4K Ultra HD",
+        "keyword": "4K Ultra HD Mavic Air 2",
         "ndFilter": ["ND", "PL", "GR", "UV"],
         "link": "jsjsjsj"
      }
