@@ -98,6 +98,143 @@
         "keyword": "4K Ultra HD Mavic Air 2",
         "ndFilter": ["ND", "PL", "GR", "UV"],
         "link": "jsjsjsj"
-     }
-    
+     },
+
+     {
+      "id": 7,
+      "name": "Mavic Air 2",
+      "focalLength": "24",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 2688,
+      "resolution": "2.7K",
+      "keyword": "2.7K Mavic Air 2",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+   {
+      "id": 8,
+      "name": "Mavic Air 2",
+      "focalLength": "24",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 1920,
+      "resolution": "FHD",
+      "keyword": "FHD Mavic Air 2",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+
+   {
+      "id": 9,
+      "name": "Mavic Air 2",
+      "focalLength": "24",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 3840,
+      "resolution": "4K Ultra HD HDR",
+      "keyword": "4K Ultra HD HDR Mavic Air 2",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+
+   
+   {
+      "id": 10,
+      "name": "Mavic Air 2",
+      "focalLength": "24",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 2688,
+      "resolution": "2.7K HDR",
+      "keyword": "2.7K HDR Mavic Air 2",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+
+   {
+      "id": 11,
+      "name": "Mavic Air 2",
+      "focalLength": "24",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 1920,
+      "resolution": "FHD HDR",
+      "keyword": "FHD HDR Mavic Air 2",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+
+   {
+      "id": 12,
+      "name": "DJI Air 2S",
+      "focalLength": "22 ",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 5472,
+      "resolution": "5.4K",
+      "keyword": "DJI Air 2S 5.4K",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+
+   {
+      "id": 13,
+      "name": "DJI Air 2S",
+      "focalLength": "22 ",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 3840,
+      "resolution": "4K Ultra HD",
+      "keyword": "DJI Air 2S 4K Ultra HD",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+
+   {
+      "id": 14,
+      "name": "DJI Air 2S",
+      "focalLength": "22 ",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 2688,
+      "resolution": "2.7K",
+      "keyword": "DJI Air 2S 2.7K",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+
+   
+   {
+      "id": 15,
+      "name": "DJI Air 2S",
+      "focalLength": "22 ",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 1920,
+      "resolution": "FHD",
+      "keyword": "DJI Air FHD",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   }
+
+   
     ]
