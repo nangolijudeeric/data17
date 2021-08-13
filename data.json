@@ -1,18 +1,18 @@
 [
     {
-       "id": 1,
-       "name": "DJI FPV",
-       "focalLength": "35",
-       "Aperture": [2.8],
-       "framerate": [24, 25, 30, 48, 50],
-       "iso": [ 100,200, 400,800,1600,3200],
-       "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
-       "videoResolution": 3840,
-       "resolution": "4K",
-       "keyword": "4K,DJI FPV",
-       "ndFilter": ["ND", "PL", "GR", "UV"],
-       "link": "jsjsjsj"
-    },
+        "id": 1,
+        "name": "DJI FPV",
+        "focalLength": "35",
+        "Aperture": [2.8],
+        "framerate": [24, 25, 30, 48, 50],
+        "iso": [ 100,200, 400,800,1600,3200],
+        "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+        "videoResolution": 3840,
+        "resolution": "4K",
+        "keyword": "4K,DJI FPV",
+        "ndFilter": ["ND", "PL", "GR", "UV"],
+        "link": "jsjsjsj"
+     },
     {
         "id": 2,
         "name": "DJI FPV",
@@ -26,4 +26,20 @@
         "keyword": "FHD,DJI FPV",
         "ndFilter": ["ND", "PL", "GR", "UV"],
         "link": "jsjsjsj"
-     }]
+     },
+     {
+        "id": 3,
+        "name": "Mavic Air",
+        "focalLength": "24",
+        "Aperture": [2.8],
+        "framerate": [24, 25, 30, 48, 50],
+        "iso": [ 100,200, 400,800,1600,3200],
+        "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+        "videoResolution": 3840,
+        "resolution": "4K Ultra HD",
+        "keyword": "4K Ultra HD Mavic Air",
+        "ndFilter": ["ND", "PL", "GR", "UV"],
+        "link": "jsjsjsj"
+     }
+    
+    ]
