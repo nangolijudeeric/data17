@@ -283,7 +283,7 @@
 
 
    {
-      "id": 16,
+      "id": 19,
       "name": "Mavic 2 Zoom",
       "focalLength": "28",
       "Aperture": [2.8],
@@ -313,7 +313,7 @@
    },
 
    {
-      "id": 18,
+      "id": 20,
       "name": "Mavic 2 Zoom",
       "focalLength": "28",
       "Aperture": [2.8],
@@ -329,7 +329,7 @@
 
    
    {
-      "id": 19,
+      "id": 21,
       "name": "DJI Spark",
       "focalLength": "25 ",
       "Aperture": [2.6],
@@ -343,7 +343,7 @@
       "link": "jsjsjsj"
    },
    {
-      "id": 19,
+      "id": 22,
       "name": "Phantom 3",
       "focalLength": "20 ",
       "Aperture": [2.8],
@@ -357,7 +357,7 @@
       "link": "jsjsjsj"
    },
    {
-      "id": 20,
+      "id": 23,
       "name": "Phantom 3",
       "focalLength": "20 ",
       "Aperture": [2.8],
@@ -373,7 +373,7 @@
 
 
    {
-      "id": 21,
+      "id": 24,
       "name": "Phantom 3",
       "focalLength": "20 ",
       "Aperture": [2.8],
