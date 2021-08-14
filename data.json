@@ -234,6 +234,97 @@
       "keyword": "DJI Air FHD",
       "ndFilter": ["ND", "PL", "GR", "UV"],
       "link": "jsjsjsj"
+   },
+
+   {
+      "id": 16,
+      "name": "Mavic 2 Pro",
+      "focalLength": "28",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 3840,
+      "resolution": "4K",
+      "keyword": "Mavic 2 Pro 4K",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+   
+   {
+      "id": 17,
+      "name": "Mavic 2 Pro",
+      "focalLength": "28",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 2688,
+      "resolution": "2.7K",
+      "keyword": "Mavic 2 Pro 2.7K",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+
+   {
+      "id": 18,
+      "name": "Mavic 2 Pro",
+      "focalLength": "28",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 1920,
+      "resolution": "FHD",
+      "keyword": "Mavic 2 Pro FHD",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+
+
+   {
+      "id": 16,
+      "name": "Mavic 2 Zoom",
+      "focalLength": "28",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 3840,
+      "resolution": "4K",
+      "keyword": "Mavic 2 Zoom 4K",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+   
+   {
+      "id": 17,
+      "name": "Mavic 2 Zoom",
+      "focalLength": "28",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 2688,
+      "resolution": "2.7K",
+      "keyword": "Mavic 2 Zoom 2.7K",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
+   },
+
+   {
+      "id": 18,
+      "name": "Mavic 2 Zoom",
+      "focalLength": "28",
+      "Aperture": [2.8],
+      "framerate": [24, 25, 30, 48, 50],
+      "iso": [ 100,200, 400,800,1600,3200],
+      "shutterSpeed": [30, 50, 60, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250,1600, 2000, 2500, 3200, 4000,5000,6400,8000],
+      "videoResolution": 1920,
+      "resolution": "FHD",
+      "keyword": "Mavic 2 Zoom FHD",
+      "ndFilter": ["ND", "PL", "GR", "UV"],
+      "link": "jsjsjsj"
    }
 
    
